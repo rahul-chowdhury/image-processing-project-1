@@ -2,9 +2,9 @@
 
 1. Clone, or download, the repository in your local machine.
 
-2. Navigate to the project directory, and compile the program using the command : cc polygon.c -o <executable> 
+2. Navigate to the project directory, and compile the program using the command : cc polygon.c -o executable
 
-3. Run the executable using the command ./<executable>
+3. Run the executable using the command ./executable
 
 4. Enter the dimensions of the grid
 
